@@ -29,3 +29,7 @@ La transferencia de datos mediante Bluetooth es una tecnología inalámbrica amp
 >[!CAUTION]
 >4684654
 
+>[!NOTE]
+>4684654
+
+
